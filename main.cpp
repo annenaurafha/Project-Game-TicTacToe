@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     initscr();
-    mvprintw(12, 40, "Hello world");
+    mvprintw(12, 40, "Testing push");
     refresh();
     getch();
     endwin();
